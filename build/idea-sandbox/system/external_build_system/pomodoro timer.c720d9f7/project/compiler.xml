@@ -1,0 +1,8 @@
+<project>
+  <component name="ExternalCompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.timer.pomodoro.pomodoro_timer_plugin.main" target="1.8" />
+      <module name="com.timer.pomodoro.pomodoro_timer_plugin.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

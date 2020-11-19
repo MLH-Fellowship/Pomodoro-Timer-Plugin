@@ -1,0 +1,9 @@
+<project>
+  <component name="ExternalModuleListStorage">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.timer.pomodoro.pomodoro_timer_plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/com.timer.pomodoro.pomodoro_timer_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.timer.pomodoro.pomodoro_timer_plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.timer.pomodoro.pomodoro_timer_plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.timer.pomodoro.pomodoro_timer_plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.timer.pomodoro.pomodoro_timer_plugin.test.iml" />
+    </modules>
+  </component>
+</project>

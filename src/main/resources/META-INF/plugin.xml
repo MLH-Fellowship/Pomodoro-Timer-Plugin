@@ -1,0 +1,28 @@
+<idea-plugin>
+    <id>com.timer.pomodoro.pomodoro_timer_plugin</id>
+    <name>Pomodoro Timer</name>
+    <vendor>Ritarians</vendor>
+
+    <description><![CDATA[
+    The Pomodoro Timer plugin is created to help developers focus thereby increasing their productivity.<br>
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <!-- uncomment to enable plugin in all products
+    <depends>com.intellij.modules.lang</depends>
+    -->
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+        <action id="PomodoroTimerAction" class="PomodoroTimerAction" text="Pomodoro Timer "
+                description="Pomodoro Timer helps to increase the productivity of developers by helping them to focus">
+            <add-to-group group-id="ToolsMenu" anchor="first"/>
+            <keyboard-shortcut keymap="$default" first-keystroke="ctrl P"/>
+        </action>
+    </actions>
+</idea-plugin>

@@ -1,0 +1,20 @@
+<idea-plugin>
+  <version>1.0</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="183.5429" until-build="183.*"/>
+  <id>com.timer.pomodoro.pomodoro_timer_plugin</id>
+  <name>Pomodoro Timer</name>
+  <vendor>Ritarians</vendor>
+  <description>
+    The Pomodoro Timer plugin is created to help developers focus thereby increasing their productivity.&lt;br&gt;
+    </description>
+  <extensions defaultExtensionNs="com.intellij"/>
+  <actions>
+    <action id="PomodoroTimerAction" class="PomodoroTimerAction" text="Pomodoro Timer " description="Pomodoro Timer helps to increase the productivity of developers by helping them to focus">
+      <add-to-group group-id="ToolsMenu" anchor="first"/>
+      <keyboard-shortcut keymap="$default" first-keystroke="ctrl P"/>
+    </action>
+  </actions>
+</idea-plugin>

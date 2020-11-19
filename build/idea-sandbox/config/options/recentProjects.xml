@@ -1,0 +1,31 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Downloads/Pomodoro Timer" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Downloads/Pomodoro Timer" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Downloads/Pomodoro Timer" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Downloads/Pomodoro Timer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-183.5429.30" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1605812591187" />
+              <option name="buildTimestamp" value="1548743193510" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

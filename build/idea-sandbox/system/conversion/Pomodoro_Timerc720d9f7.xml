@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\user\Downloads\Pomodoro Timer\.idea\encodings.xml" timestamp="1605811513146" />
+    <file path="C:\Users\user\Downloads\Pomodoro Timer\.idea\gradle.xml" timestamp="1605811648110" />
+    <file path="C:\Users\user\Downloads\Pomodoro Timer\.idea\misc.xml" timestamp="1605811513079" />
+    <file path="C:\Users\user\Downloads\Pomodoro Timer\.idea\vcs.xml" timestamp="1605812591319" />
+    <file path="C:\Users\user\Downloads\Pomodoro Timer\.idea\workspace.xml" timestamp="1605812591228" />
+  </project-files>
+</conversion>
+
